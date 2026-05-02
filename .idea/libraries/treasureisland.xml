@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="treasureisland">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/treasureisland.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/treasureisland-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
